@@ -11,7 +11,7 @@ class TestRectangle {
 
     @BeforeEach
     void setUp() {
-        rectangle = new Rectangle(3, 10);
+        rectangle = new Rectangle(5, 10);
     }
 
     @Test
