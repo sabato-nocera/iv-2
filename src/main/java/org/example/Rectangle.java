@@ -22,6 +22,6 @@ public class Rectangle {
     }
 
     public int getPerimeter() {
-        return (length + width) * (length + width);
+        return (length + width) + (length + width);
     }
 }
